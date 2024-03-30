@@ -26,7 +26,6 @@
 <h3 align="center">🛠 Deploy 🛠</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Naver%20Cloud%20Platform-03C75A?style=for-the-badge&logo=naver&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Github%20Actions-2AB1AC?style=for-the-badge&logo=github&logoColor=black" />&nbsp;
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;
 </div>
