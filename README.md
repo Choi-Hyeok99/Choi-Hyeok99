@@ -5,6 +5,8 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Java-F7DF1E.svg?style=for-the-badge&logo=Java&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/MariaDB-FFFFFF.svg?style=for-the-badge&logo=MariaDB&logoColor=20232a" />&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge" />&nbsp;
   <img src="https://img.shields.io/badge/Spring%20boot-6DB33F.svg?style=for-the-badge&logo=Spring%20boot&logoColor=white" />
 </div>
 
@@ -29,6 +31,13 @@
 </div>
 
 
+
+<h3 align="center">🏆 Baekjoon</h3>
+<div align="center">
+  <a href="https://solved.ac/profile/gur0709">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gur0709" alt="solved.ac 프로필" />
+  </a>
+</div>
 
 <br>
 
